@@ -1,5 +1,5 @@
 {
-  "version": "3.3.0",
+  "version": "3.4.0",
   "firmwareUrl": "https://raw.githubusercontent.com/Marverlabs/Wordclock-releases/main/firmware.bin",
   "filesystemUrl": "https://raw.githubusercontent.com/Marverlabs/Wordclock-releases/main/littlefs.bin"
 }
