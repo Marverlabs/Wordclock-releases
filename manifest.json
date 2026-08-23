@@ -3,11 +3,12 @@
   "firmwareUrl": "https://raw.githubusercontent.com/Marverlabs/Wordclock-releases/main/firmware.bin",
   "filesystemUrl": "https://raw.githubusercontent.com/Marverlabs/Wordclock-releases/main/littlefs.bin",
   "beta": {
-    "version": "3.9.3-b4",
+    "version": "3.9.3-b5",
     "firmwareUrl": "https://raw.githubusercontent.com/Marverlabs/Wordclock-releases/main/beta/firmware.bin",
     "filesystemUrl": "https://raw.githubusercontent.com/Marverlabs/Wordclock-releases/main/beta/littlefs.bin",
     "devices": [
-      "04BBAB80"
+      "04BBAB80",
+      "9391935C"
     ]
   }
 }
